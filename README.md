@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rujira (RJ)</h1>
+<h1 align="center">Hi 👋, I'm Georgy (Rujira or 王懿阳)</h1>
 <h3 align="center">AI Engineering Student · LLM Fine-Tuning · Python · PyTorch · LoRA</h3>
  
 <br/>
@@ -32,12 +32,12 @@
  
 ### 📊 GitHub Stats
  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GeorgyRJ&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyRJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</p>
- 
+<div align="center">
+  <img src="https://https://github.com/GeorgyRJ/api/top-langs/?username=GeorgyRJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155"/>
+  &nbsp;&nbsp;
+  <img src="https://https://github.com/GeorgyRJ/api?username=GeorgyRJ&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
+</div>
+
 ### 🤝 Connect with Me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rujira-sangsawang)
