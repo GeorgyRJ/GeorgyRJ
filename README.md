@@ -32,11 +32,10 @@
  
 ### 📊 GitHub Stats
  
-<div align="center">
-  <img src="https://https://github.com/GeorgyRJ/api/top-langs/?username=GeorgyRJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155"/>
-  &nbsp;&nbsp;
-  <img src="https://https://github.com/GeorgyRJ/api?username=GeorgyRJ&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyRJ&layout=compact&theme=tokyonight)](https://github.com/GeorgyRJ)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyRJ&show_icons=true&theme=tokyonight)](https://github.com/GeorgyRJ)
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=GeorgyRJ&color=blue&style=for-the-badge&label=Profile+Views)
 
 ### 🤝 Connect with Me
  
